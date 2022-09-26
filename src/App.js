@@ -32,7 +32,6 @@ function App() {
           Learn React
         </a>
       </header> */
-      /* prova */
       }
     </div>
   );
